@@ -1,0 +1,20 @@
+## Interface: 110105
+## Title: Peavers Hero Path
+## Notes: Displays Hero Path portal spells with search functionality
+## Author: Peavers
+## Version: 1.0.0
+## Dependencies: PeaversCommons
+## SavedVariables: PeaversHeroPathDB
+## IconTexture: Interface\Icons\spell_arcane_portalundercity
+## Category-enUS: Peavers
+## X-Curse-Project-ID: 1275372
+
+src/Data/HeroPathData.lua
+src/Core/Core.lua
+src/UI/MainFrame.lua
+src/UI/SearchBar.lua
+src/UI/SpellList.lua
+src/UI/UI.lua
+src/Utils/Config.lua
+src/Utils/MacroUI.lua
+src/Main.lua

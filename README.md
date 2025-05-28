@@ -1,6 +1,28 @@
-# PeaversHeroPath
+# Peavers Hero Path
 
-## 
+A World of Warcraft addon that provides quick access to all Hero Path portal spells through a modern, searchable interface.
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/peavers/<<REPOSITORY>>)](https://github.com/peavers/<<REPOSITORY>>/commits/master) [![Last commit](https://img.shields.io/github/last-commit/peavers/<<REPOSITORY>>)](https://github.com/peavers/<<REPOSITORY>>/commits/master) [![CurseForge](https://img.shields.io/curseforge/dt/1275372?label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/<<CURSEFORGE_PROJECT_NAME>>)
+## Features
 
+- **Complete Portal List**: All Hero Path portals for dungeons and raids
+- **Smart Search**: Search by dungeon name, expansion, or category
+- **Modern UI**: Matches the latest WoW retail UI styling
+- **Category Filtering**: Filter by All, Dungeons, or Raids
+- **Visual Indicators**: Shows which portals you've learned with lock icons for unlearned spells
+
+## Commands
+
+- `/pt` - Open the Hero Path portal window
+- `/travel` - Alternative command to open the portal window
+
+## Installation
+
+1. Download the addon
+2. Extract to your WoW AddOns folder
+3. Make sure PeaversCommons is also installed (required dependency)
+4. Reload your UI or restart WoW
+
+## Requirements
+
+- World of Warcraft Retail (11.1.5)
+- PeaversCommons addon library
