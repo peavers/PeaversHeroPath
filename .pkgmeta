@@ -1,4 +1,4 @@
-package-as: PeaversDynamicStats
+package-as: PeaversHeroPath
 
 required-dependencies:
   - peaverscommons
