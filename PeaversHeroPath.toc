@@ -2,7 +2,7 @@
 ## Title: Peavers Hero Path
 ## Notes: Displays Hero Path portal spells with search functionality
 ## Author: Peavers
-## Version: 1.0.0
+## Version: 1.0.1
 ## Dependencies: PeaversCommons
 ## SavedVariables: PeaversHeroPathDB
 ## IconTexture: Interface\Icons\spell_arcane_portalundercity
